@@ -1,0 +1,35 @@
+Common Data types:
+    Primitives:
+        int
+        char
+        float
+        boolean
+        long
+        short
+        double
+
+   Object Types:
+        Integer
+        Character
+        Boolean
+        Float
+        Long
+        Short
+        Double
+        String
+
+Java Collections
+    ArrayList - Dynamically sized Arrays
+    List - Collection of object that have the same object type
+            - Statically Sized
+   HashMap  -NOT THREAD SAFE!!! non concurrent operations
+            - One null key, any value can be null
+   HashTable - Are Thread Safe concurrent operations
+                - NO NULLS
+   HashSet - No duplicate entries
+   Queue - FIFO
+   Stacks - LIFO
+
+
+
+
